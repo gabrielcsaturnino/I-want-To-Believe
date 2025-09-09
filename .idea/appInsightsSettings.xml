@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.IwantToBelieve" />
-                  <option name="mobileSdkAppId" value="1:139286726641:android:1edcfe5757627d1358a650" />
-                  <option name="projectId" value="i-want-to-believe-874a4" />
-                  <option name="projectNumber" value="139286726641" />
+                  <option name="mobileSdkAppId" value="1:725006208881:android:0f99ee4836e72bdafbf0d0" />
+                  <option name="projectId" value="iwanttobelieve-9dcf4" />
+                  <option name="projectNumber" value="725006208881" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
